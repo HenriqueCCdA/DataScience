@@ -11,10 +11,11 @@ Este repositório serve para listar os meus principais repósitorios em Ciencia 
 ---
 * Cursos
 ---
-1. [bootCampAluraDataScience - Bootcamp2 da Alura:](https://github.com/HenriqueCCdA/bootCampAluraDataScience) Repositotrios com as aulas do bootcamp da Alura de DataScience aplicada 2
-2. [BC_DS_PROJETO1 - Projeto 1 do bootcamp da Alura:](https://github.com/HenriqueCCdA/BC_DS_Projeto1)
-3. [Cobertura Vavinal do BCG:](https://github.com/HenriqueCCdA/BC_DS_Projeto2) Repositório como o Projeto 2 do bootcamp da Alura de DataScience aplicada 2
-4. [ImersaoDados - Imersão de dados 2 Alura:](https://github.com/HenriqueCCdA/ImersaoDados) Aulas da imersãoDados2 da Alura.
+1. [Bootcamp da Alura em Data Science:](https://github.com/HenriqueCCdA/bootCampAluraDataScience) Repositório com as aulas do bootcamp da Alura de DataScience aplicada 2
+2. [Projeto 1 do bootcamp da Alura:](https://github.com/HenriqueCCdA/BC_DS_Projeto1) Repositório como o Projeto 1 do bootcamp da Alura de DataScience aplicada 2
+3. [Projeto 2 do bootcamp da Alura:](https://github.com/HenriqueCCdA/BC_DS_Projeto2) Repositório como o Projeto 2 do bootcamp da Alura de DataScience aplicada 2
+4. [Projeto Final do bootcamp da Alura:](https://github.com/HenriqueCCdA/BC_DS_Projeto_Final) Repositório como o Projeto Final do bootcamp da Alura de DataScience aplicada 2
+5. [ImersaoDados - Imersão de dados 2 Alura:](https://github.com/HenriqueCCdA/ImersaoDados) Aulas da imersãoDados2 da Alura.
 ---
 * Estudos livres
 ---
