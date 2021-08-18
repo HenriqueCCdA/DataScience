@@ -4,7 +4,7 @@
 ---
 # DataScience
 
-Este repositório serve para listar os meus principais repósitorios em Ciencia de dados.
+Este repositório serve para listar os meus principais códigos em Ciencia de dados.
 
 ---
 # Lista de Repositórios
