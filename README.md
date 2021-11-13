@@ -2,12 +2,12 @@
 ![](https://img.shields.io/badge/Autor-Henrique%20C%20C%20de%20Andrade-blue)
 
 ---
-# DataScience
+# 📊 DataScience 📊
 
 Este repositório serve para listar os meus principais códigos em **Ciencia de dados**. No tópico **Estudo de Casos/Projetos** são repositórios onde eu apliquei o meus estudos e conhecimentos em problemas reais. No tópico **curso** estão os principais cursos que eu fiz. No tópico **Estudos livres** estão os repositórios de alguns materiais que eu achei na internet/livros e resolvi estudar de forma livre por conta propria. 
 
 ---
-# Lista de Repositórios
+# Lista de Repositórios: 🛠
 ---
 * Estudo de Casos/Projetos:
 ---
