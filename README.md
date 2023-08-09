@@ -21,6 +21,7 @@ Este repositório serve para listar os meus principais códigos em **Ciencia de 
 1. [Bootcamp da Alura em Data Science:](https://github.com/HenriqueCCdA/bootCampAluraDataScience) Repositório com as aulas do bootcamp da Alura de DataScience aplicada 2
 2. [ImersaoDados - Imersão de dados 2 Alura:](https://github.com/HenriqueCCdA/ImersaoDados) Aulas da imersãoDados2 da Alura.
 3. [Machine Learning da Alura](https://github.com/HenriqueCCdA/FormacaoAluraML) Os cursos desta formação de ML da alura.
+4. [Deep Learning com Pytorch Aprenda deep learning com framework queridinho dos cientistas](https://github.com/HenriqueCCdA/FormacaoAluraPyTorch)
 ---
 * Estudos livres:
 ---
